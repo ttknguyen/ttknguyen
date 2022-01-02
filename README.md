@@ -122,9 +122,10 @@ My name is Thai Tran Khanh Nguyen. I'm a student in Computer Science major.
 
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 
+
 <br>
 <hr>
+
 Credits: [ttknguyen](https://github.com/ttknguyen)
 
-Last Edited on: 02/01/2022
-
+Last Edited on: 15/01/2021
