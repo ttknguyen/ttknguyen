@@ -35,9 +35,6 @@ My name is Thai Tran Khanh Nguyen. I'm a student in Computer Science major.
   </a>
 </p>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ttknguyen&custom_title=Thai%20Tran%20Khanh%20Nguyen's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
-------
-
 <br>
 <hr>
 
